@@ -5,4 +5,4 @@
 
 ## 🎮 Pac-Man Contribution Graph
 
-![Pac-Man](https://raw.githubusercontent.com/KrutikaYewale/KrutikaYewale/output/pacman-contribution-graph.svg)
+![Pac-Man](https://raw.githubusercontent.com/KrutikaYewale/KrutikaYewale/output/github-contribution-grid-snake.svg)
